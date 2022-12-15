@@ -12,6 +12,6 @@
         <module>population-management</module>
     </modules>
     <package>jar</package>
-
+    <p>hello,github!</p>
     <p>hello,merger ok ! </p>
 </project>
