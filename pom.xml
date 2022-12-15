@@ -11,6 +11,6 @@
     <modules>
         <module>population-management</module>
     </modules>
-
+    <package>jar</package>
 
 </project>
